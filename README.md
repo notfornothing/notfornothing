@@ -2,28 +2,6 @@
 
 **Have a nice day!**
 
-| Now Playing                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
-
-<table>
-  <thead>
-    <tr>
-      <th>Top Songs</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://status.nmoo.dev/top-tracks?i=1&open"><img src="https://status.nmoo.dev/top-tracks?i=1" width="540" height="64"></a></td>
-    </tr>
-    <tr></tr> <!-- hide gray row -->
-    <tr>
-      <td><a href="https://status.nmoo.dev/top-tracks?i=2&open"><img src="https://status.nmoo.dev/top-tracks?i=2" width="540" height="64"></a></td>
-    </tr>
-    <tr></tr> <!-- hide gray row -->
-    <tr>
-      <td><a href="https://status.nmoo.dev/top-tracks?i=3&open"><img src="https://status.nmoo.dev/top-tracks?i=3" width="540" height="64"></a></td>
-    </tr>
-  </tbody>
-</table>
-
+| Recent Playing                                               |
+| ------------------------------------------------------------ |
+| <a href="http://p2.music.126.net/9LYV5dkxF7H3HOmQBRKqPg==/2912606303301933.jpg?param=130y130"><img src="http://p2.music.126.net/9LYV5dkxF7H3HOmQBRKqPg==/2912606303301933.jpg?param=130y130" width="130" height="130"></a>**Dans la maison (Thème)** |
