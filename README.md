@@ -1,18 +1,15 @@
-# Hey, I'm Nate!
+# Hey, I'm Noob!
 
-I'm most comfortable in that weird, funky world between design and developmentâ€”that's where the most fun, creative, boundary-breaking work happens. If you're interested in the work I do, please consider supporting me on GitHub!
-
-<a href="https://github.com/sponsors/natemoo-re" title="Sponsor Nate Moore"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
+**Have a nice day!**
 
 | Now Playing                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ |
 | <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
 
-
 <table>
   <thead>
     <tr>
-      <th>Top Tracks</th>
+      <th>Top Songs</th>
     </tr>
   </thead>
   <tbody>
@@ -29,3 +26,4 @@ I'm most comfortable in that weird, funky world between design and developmentâ€
     </tr>
   </tbody>
 </table>
+
