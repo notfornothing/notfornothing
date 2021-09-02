@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Noob!
 
-[![CodFrm's github stats](https://github-readme-stats.vercel.app/api?username=notfornothing&show_icons=true)](https://github.com/CodFrm)
+[![CodFrm's github stats](https://github-readme-stats.vercel.app/api?username=notfornothing&show_icons=true)](https://github.com/notfornothing)
 
-**Have a nice day!**
+## **Have a nice day!**
 
 |                        Recent Playing                        |
 | :----------------------------------------------------------: |
