@@ -1,4 +1,6 @@
-# Hey, I'm Noob!
+# 👋 Hey, I'm Noob!
+
+[![CodFrm's github stats](https://github-readme-stats.vercel.app/api?username=notfornothing&show_icons=true)](https://github.com/CodFrm)
 
 **Have a nice day!**
 
